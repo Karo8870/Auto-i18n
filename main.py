@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 TEMPLATE_FILE_NAME = 'template.po.template'
 OUTPUT_DIRECTORY = 'templates'
 
-MAX_THREADS = 5
+MAX_THREADS = 15
 
 load_dotenv()
 genai.configure(api_key=getenv('GEMINI_API_KEY'))
@@ -101,7 +101,7 @@ def main():
 
     base_template = POTemplate(template)
 
-    model = genai.GenerativeModel('gemini-1.5-pro')
+    model = genai.GenerativeModel('gemini-1.5-flash')
 
     start_time = time()
 
