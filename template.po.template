@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-07-30 00:03+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: {{{language}}}\n"
+
+msgid "{0} of {1} students"
+msgstr ""
+
+msgid "absences"
+msgstr ""
+
+msgid "Absences"
+msgstr ""
+
+msgid "Absent"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add absence"
+msgstr ""
+
+msgid "Add absence for {studentName}"
+msgstr ""
+
+msgid "Add absences"
+msgstr ""
+
+msgid "Add attachment"
+msgstr ""
+
+msgid "Add grade"
+msgstr ""
+
+msgid "Add grade for {0}"
+msgstr ""
+
+msgid "Add grade for {studentName}"
+msgstr ""
+
+msgid "Add grades"
+msgstr ""
+
+msgid "Add link"
+msgstr ""
+
+msgid "Add observation"
+msgstr ""
+
+msgid "Add observation for {studentName}"
+msgstr ""
+
+msgid "Announcement"
+msgstr ""
+
+msgid "Announcements"
+msgstr ""
+
+msgid "Are you sure you want to add these grades?"
+msgstr ""
+
+msgid "Are you sure you want to add this absence?"
+msgstr ""
+
+msgid "Are you sure you want to add this grade?"
+msgstr ""
+
+msgid "Are you sure you want to add this observation?"
+msgstr ""
+
+msgid "Are you sure you want to change this grade?"
+msgstr ""
+
+msgid "Are you sure you want to delete this absence?"
+msgstr ""
+
+msgid "Are you sure you want to delete this attachment?"
+msgstr ""
+
+msgid "Are you sure you want to delete this grade?"
+msgstr ""
+
+msgid "Are you sure you want to delete this observation?"
+msgstr ""
+
+msgid "Are you sure you want to excuse this absence?"
+msgstr ""
+
+msgid "Are you sure you want to return this submission?"
+msgstr ""
+
+msgid "Are you sure you want to submit your work?"
+msgstr ""
+
+msgid "Are you sure you want to unsubmit?"
+msgstr ""
+
+msgid "Assessment"
+msgstr ""
+
+msgid "Assessment mode"
+msgstr ""
+
+msgid "Assignment"
+msgstr ""
+
+msgid "assignments"
+msgstr ""
+
+msgid "Assignments"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Attendance"
+msgstr ""
+
+msgid "Attendance mode"
+msgstr ""
+
+msgid "Authenticate to add absences"
+msgstr ""
+
+msgid "Authenticate to add grade"
+msgstr ""
+
+msgid "Authenticate to add grades"
+msgstr ""
+
+msgid "Authenticate to add observation"
+msgstr ""
+
+msgid "Authenticate to change grade"
+msgstr ""
+
+msgid "Authenticate to delete absence"
+msgstr ""
+
+msgid "Authenticate to delete grade"
+msgstr ""
+
+msgid "Authenticate to delete observation"
+msgstr ""
+
+msgid "Authenticate to excuse absence"
+msgstr ""
+
+msgid "Authenticate to return submission"
+msgstr ""
+
+msgid "average"
+msgstr ""
+
+msgid "average grades"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Body must be completed"
+msgstr ""
+
+msgid "Can't sign you in!"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change grade"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Choose due date"
+msgstr ""
+
+msgid "Choose planned day for the test"
+msgstr ""
+
+msgid "class average"
+msgstr ""
+
+msgid "Class Master"
+msgstr ""
+
+msgid "Classbook"
+msgstr ""
+
+msgid "Classes"
+msgstr ""
+
+msgid "Comment for the submission..."
+msgstr ""
+
+msgid "Comment is required"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create a new announcement"
+msgstr ""
+
+msgid "Create Assignment"
+msgstr ""
+
+msgid "Create post"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Due {0}"
+msgstr ""
+
+msgid "Due {0}, {1}"
+msgstr ""
+
+msgid "Due {dueDate}"
+msgstr ""
+
+msgid "Due date"
+msgstr ""
+
+msgid "Edit grade for {studentName}"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email is not valid"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Enter the link here..."
+msgstr ""
+
+msgid "Enter the reason for the grades..."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Excuse"
+msgstr ""
+
+msgid "Excused"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Finish up"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "Get students"
+msgstr ""
+
+msgid "Grade"
+msgstr ""
+
+msgid "Grade is required"
+msgstr ""
+
+msgid "Grade submission"
+msgstr ""
+
+msgid "Grade the class"
+msgstr ""
+
+msgid "graded"
+msgstr ""
+
+msgid "grades"
+msgstr ""
+
+msgid "Grades"
+msgstr ""
+
+msgid "How would you like to add an attachment?"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Later"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link is required"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Material"
+msgstr ""
+
+msgid "Materials"
+msgstr ""
+
+msgid "Missing"
+msgstr ""
+
+msgid "No due date"
+msgstr ""
+
+msgid "No grade"
+msgstr ""
+
+msgid "not submitted"
+msgstr ""
+
+msgid "Number of students"
+msgstr ""
+
+msgid "Observations"
+msgstr ""
+
+msgid "Ongoing assignments"
+msgstr ""
+
+msgid "overall average"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is not valid"
+msgstr ""
+
+msgid "Plan a new test"
+msgstr ""
+
+msgid "Planned on"
+msgstr ""
+
+msgid "Planned on {0}"
+msgstr ""
+
+msgid "Planned on {dueDate}"
+msgstr ""
+
+msgid "Post a new material"
+msgstr ""
+
+msgid "Present"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Reason for the grade..."
+msgstr ""
+
+msgid "Reason is required"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Return"
+msgstr ""
+
+msgid "Return submission"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Stream"
+msgstr ""
+
+msgid "Student grades"
+msgstr ""
+
+msgid "Student submission"
+msgstr ""
+
+msgid "Student submissions"
+msgstr ""
+
+msgid "Students"
+msgstr ""
+
+msgid "students with few grades"
+msgstr ""
+
+msgid "Subjects"
+msgstr ""
+
+msgid "Submission comment"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "submitted"
+msgstr ""
+
+msgid "Submitted"
+msgstr ""
+
+msgid "Submitted at {0}"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Tests"
+msgstr ""
+
+msgid "There was a problem while loading."
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title must be completed"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Unexcused"
+msgstr ""
+
+msgid "unexcused absences"
+msgstr ""
+
+msgid "Unsubmit"
+msgstr ""
+
+msgid "View student submissions"
+msgstr ""
+
+msgid "Write your comment here..."
+msgstr ""
+
+msgid "Your submission"
+msgstr ""
+
+msgid "Your submission has been graded"
+msgstr ""
+
+msgid "Your submission has been returned"
+msgstr ""
